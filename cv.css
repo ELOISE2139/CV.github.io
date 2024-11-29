@@ -158,16 +158,10 @@ section > div{
 .comp p{
     flex: 0 0 40%;
 }
-.barre{
-    display: block;
-    height: 100%;
-    border-top-left-radius: 5px;
-    border-bottom-left-radius: 5px;
-}
 .comp2{
     display: flex;
     flex-flow: row wrap;
-    justify-content: left;
+    justify-content: center;
 }
 
 /*SECTION INTERETS*/
