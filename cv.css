@@ -161,7 +161,7 @@ section > div{
 .comp2{
     display: flex;
     flex-flow: row wrap;
-    justify-content: left;
+    justify-content: space-between;
 }
 
 /*SECTION INTERETS*/
